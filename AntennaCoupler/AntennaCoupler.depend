@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1388971781 source:d:\version_controlled\git\__embedded-projects\antennacoupler\code\helper.c
+	"types.h"
+
+1318782984 d:\version_controlled\git\__embedded-projects\antennacoupler\code\types.h
+	<stdint.h>
+	<stdbool.h>
+
+1388971904 source:d:\version_controlled\git\__embedded-projects\antennacoupler\code\main.c
+	"System/SysConfig.h"
+	"System/IO/Usart1.h"
+	"helper.h"
+	"stm32f10x_gpio.h"
+
+1318788956 d:\version_controlled\git\__embedded-projects\antennacoupler\code\system\sysconfig.h
+	"types.h"
+
+1388968819 d:\version_controlled\git\__embedded-projects\antennacoupler\code\system\io\usart1.h
+	"types.h"
+
+1337383468 d:\version_controlled\git\__embedded-projects\antennacoupler\code\helper.h
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\code\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1499445869 d:\version_controlled\git\__embedded-projects\antennacoupler\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1499445869 d:\version_controlled\git\__embedded-projects\antennacoupler\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1499445869 d:\version_controlled\git\__embedded-projects\antennacoupler\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\code\system_stm32f10x.h
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\code\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_can.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1499445869 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1499445869 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1499445869 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1499445869 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1499445868 d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\misc.h
+	"stm32f10x.h"
+
+1499445868 source:d:\version_controlled\git\__embedded-projects\antennacoupler\code\startup_stm32f10x_ld_vl.s
+
+1318788970 source:d:\version_controlled\git\__embedded-projects\antennacoupler\code\system\io\packetmanager.c
+	"PacketManager.h"
+
+1318788970 d:\version_controlled\git\__embedded-projects\antennacoupler\code\system\io\packetmanager.h
+
+1388968893 source:d:\version_controlled\git\__embedded-projects\antennacoupler\code\system\io\usart1.c
+	"Usart1.h"
+	"stm32f10x.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_usart.h"
+	"misc.h"
+	"string.h"
+
+1362344373 source:d:\version_controlled\git\__embedded-projects\antennacoupler\code\system\sysconfig.c
+	"SysConfig.h"
+	"stm32f10x.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+	"misc.h"
+
+1499445868 source:d:\version_controlled\git\__embedded-projects\antennacoupler\code\system_stm32f10x.c
+	"stm32f10x.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\misc.c
+	"misc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1499445869 source:d:\version_controlled\git\__embedded-projects\antennacoupler\stdperiphlib\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
